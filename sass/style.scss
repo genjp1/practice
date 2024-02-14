@@ -1,0 +1,8 @@
+@use "./base/base";
+@use "./base/reset";
+@use "./global" as *;
+
+.swiper-slide img {
+  height: 100%;
+  width: 100%;
+}
